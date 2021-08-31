@@ -1,6 +1,8 @@
-## Getting Started
+<img src ="https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg">
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Getting Started 👋👋
+
+Welcome to the another repositry related to *Data Structures and Algorithms* . Here I will be learning different types for algorithms for sorting. I hope you like it .
 
 ## Folder Structure
 
