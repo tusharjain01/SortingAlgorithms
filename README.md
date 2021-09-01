@@ -1,5 +1,6 @@
 
 <h1 align = "center"> SORTING ALGORITHMS </h1>
+
 ## Getting Started 👋👋
 
 Welcome to the another repositry related to *Data Structures and Algorithms* . Here I will be learning different types for algorithms for sorting. I hope you like it .
