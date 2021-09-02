@@ -38,6 +38,7 @@ public class mergetwosortedarry {
             System.out.print(res[i] + " ");
         }
     }
+    //Code starts from here
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n1 = scn.nextInt();
