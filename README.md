@@ -17,12 +17,10 @@ The workspace contains two folders by default, where:
 | :--- | ---------- | :-------------: |
 | 1 | Bubble Sort | O(n^2) |
 | 2 | Selection Sort | O(n^2) |
-| 3 | Insertion Sort | )(n^2) |
-| 4 | Merge Sort (preq:-merge two sorted array) | O(nlog(n)) |
-| 5 | Quick Sort (paritioning the array) | O(nlog(n)) |
+| 3 | Insertion Sort | O(n^2) |
+| 4 | Merge Sort (preq:- `mergetwosortedarray.java` ) | O(nlog(n)) |
+| 5 | Quick Sort (preq:- `paritioningarray.java` ) | O(nlog(n)) |
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
